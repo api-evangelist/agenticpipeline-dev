@@ -66,7 +66,7 @@
 
 Agentic Pipeline is an agent-native CI/CD platform that serves as a GitHub Actions alternative. It streams agent‑readable logs while a run is live, allowing coding agents to diagnose failures and rerun failed work over the MCP (Machine Control Protocol). The platform provides live control, automatic profiling, required GitHub checks, and the ability to turn off pipelines at any time. It offers a dashboard for replacing GitHub Actions, integrates with GitHub checks, and emphasizes security and transparency.
 
-**Areas:** CI/CD · DevOps · Automation · Agentic · GitHub Actions Alternative · MCP
+**Areas:** CI/CD · DevOps · Automation · AI Agents · GitHub Actions Alternative · MCP
 
 ## Agentic Pipeline on APIs.io
 
@@ -84,15 +84,15 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agenticpipeline Dev Authentication](https://apis.io/security/agenticpipeline-dev/agenticpipeline-dev-authentication/)
-- [Agenticpipeline Dev Domain Security](https://apis.io/security/agenticpipeline-dev/agenticpipeline-dev-domain-security/)
-- [Agenticpipeline Dev Vulnerability Disclosure](https://apis.io/security/agenticpipeline-dev/agenticpipeline-dev-vulnerability-disclosure/)
+- [Agentic Pipeline Authentication](https://apis.io/security/agenticpipeline-dev/agenticpipeline-dev-authentication/)
+- [Agentic Pipeline Domain Security](https://apis.io/security/agenticpipeline-dev/agenticpipeline-dev-domain-security/)
+- [Agentic Pipeline Vulnerability Disclosure](https://apis.io/security/agenticpipeline-dev/agenticpipeline-dev-vulnerability-disclosure/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agenticpipeline Dev Scopes](https://apis.io/scopes/agenticpipeline-dev/agenticpipeline-dev-scopes/)
+- [Agentic Pipeline Scopes](https://apis.io/scopes/agenticpipeline-dev/agenticpipeline-dev-scopes/)
 
 ## Where to find this API
 
@@ -105,25 +105,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 12.8** — emerging · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 12.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 67.9 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 10.5 |
-| Developer ergonomics | 23.8 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 17.9 |
 | Access clarity | 0.0 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -142,6 +142,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 21.6** — Horizontal (data, software, accessibility, platform)
 
